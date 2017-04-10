@@ -2,12 +2,12 @@
 
 This is a quick iPython Notebook script that will calculate your current crypto portfolio in USD and provide an overview of your entire position. 
 
-Currently built to support balances held on:
+Currently built to support all assets held on:
 - Coinbase
 - GDAX
 - Poloniex
 
-Also supports balances held in cold storage on:
+Also supports assets held in cold storage on:
 - BTC
 - ETH (including all ETH tokens)
 - Dash
