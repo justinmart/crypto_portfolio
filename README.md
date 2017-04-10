@@ -1,4 +1,4 @@
-# crypto_portfolio
+# Crypto Portfolio
 
 This is a quick iPython Notebook script that will calculate your current crypto portfolio in USD and provide an overview of your entire position. 
 
